@@ -9,12 +9,30 @@
   list:
     - term: 小工具
       links:
-        - title: LeanCloud
-          url: https://www.leancloud.cn/
-          description: 领先的Serverless 云服务，为产品开发提供强有力的后端支持。
-        - title: MVN Repository
-          url: https://mvnrepository.com/
-          description: Maven 版本查询网站。
+        - title:
+          url: 
+          description: 
+        - title:
+          url: 
+          description: 
+        - title:
+          url: 
+          description:
+        - title:
+          url: 
+          description: 
+        - title:
+          url: 
+          description: 
+        - title:
+          url: 
+          description: 
+        - title:
+          url: 
+          description:  
+
+    - term: 程序
+      links:
         - title: 设计模式教学
           url: https://refactoringguru.cn/
           description: 设计模式在线教学
@@ -27,6 +45,30 @@
         - title: JitPack
           url: https://jitpack.io/
           description: JVM和 Android 库推网站
+        - title: MVN Repository
+          url: https://mvnrepository.com/
+          description: Maven 版本查询网站。
+
+    - term: 邮箱
+      links:
+        - title: 临时邮箱
+          url: https://temp-mail.org/
+          description: 临时邮箱。
+        - title: Cock
+          url: https://cock.li/
+          description: 匿名邮箱。
+
+    - term: 后端服务
+      links:
+        - title: Supabase
+          url: https://supabase.com/
+          description: Supabase 是一个开源 Firebase 替代品。使用 Postgres 数据库、身份验证、即时 API、边缘函数、实时订阅、存储和矢量嵌入来启动您的项目。
+        - title: Firebase
+          url: https://firebase.google.com/
+          description: Google 后端服务。
+        - title: LeanCloud
+          url: https://www.leancloud.cn/
+          description: 领先的Serverless 云服务，为产品开发提供强有力的后端支持。
         - title: Jsonplaceholder
           url: https://jsonplaceholder.typicode.com/
           description: 免费词典Reset api。
@@ -36,7 +78,8 @@
         - title: Free Dictionary API
           url: https://dictionaryapi.dev/
           description: 免费词典REST api。
-    - term: AI
+
+    - term: AI 聊天
       links:
         - title: Chat GPT
           url: https://chat.openai.com/
@@ -53,6 +96,8 @@
         - title: Perplexity
           url: https://www.perplexity.ai/
           description: Perplexity 聊天工具。
+    - term: AI 其他
+      links:
         - title: Pika
           url: https://pika.art/
           description: 在线AI视频制作网站。
@@ -62,6 +107,9 @@
   list:
     - term: VPS
       links:
+        - title: Hostloc
+          url: https://hostloc.com/
+          description: 全球主机交流平台。
         - title: Akile
           url: https://akile.io/
           description: AkileCloud 大带宽流媒体解锁VPS。
@@ -76,6 +124,9 @@
           description: 1刀Vps。
     - term: 机场
       links:
+        - title: Duwang的性价比机场
+          url: https://duangks.com/
+          description: Duwang的性价比机场排名。
         - title: 魔戒
           url: https://www.mojie.me/
           description: 不限时机场。
@@ -113,9 +164,6 @@
         - title: Duwang的VPS分享
           url: https://iweec.com/
           description: D小白技术分享。
-        - title: Duwang的性价比机场
-          url: https://duangks.com/
-          description: Duwang的性价比机场排名。
         - title: 科技Lion
           url: https://kejilion.blogspot.com/
           description: 科技分享博主。
@@ -202,18 +250,57 @@
         - title: Ping0
           url: https://ping0.cc/
           description: 高精度IP 地址归属地查询
+        - title: IpInfo
+          url: https://ipinfo.io/
+          description: IP 全部信息查询。
         - title: Whoer
           url: https://whoer.net/zh
-          description: IP 欺诈值检测
-        - title: Whoer
-          url: https://ip.gs/
-          description: 查询当前IPV4和IPV6
+          description: IP 欺诈值检测。
+        - title: Scamalytics
+          url: https://scamalytics.com/
+          description: IP 欺诈值检测。
         - title: Test your IPV6
           url: https://ipv4.test-ipv6.com/
-          description: 查询当前IPV4和IPV6
+          description: 查询当前IPV4和IPV6。
         - title: IP sb
           url: https://ip.sb/
-          description: 查询当前IPV4和IPV6
+          description: 查询当前IPV4和IPV6。
+        - title: Ip.gs
+          url: https://ip.gs/
+          description: 查询当前IPV4和IPV6。
+
+    - term: 延迟测试
+      links:
+        - title: Itdog
+          url: https://www.itdog.cn/ping/
+          description: 全国延迟测试。
+        - title: Ping.pe
+          url: https://ping.pe/
+          description: 全世界延迟测试。
+        - title: Ping.sx
+          url: https://ping.sx/ping
+          description: 全世界延迟测试。
+        - title: Port.ping.pe
+          url: https://port.ping.pe/
+          description: 端口延迟测试。
+
+    - term: 其他
+      links:
+        - title: Ipleak
+          url: https://ipleak.net/
+          description: DNS泄漏测试。
+        - title: Browserleaks
+          url: https://browserleaks.com/webrtc
+          description: Webrtc泄漏测试。
+        - title: Traceroute
+          url: https://tools.ipip.net/traceroute.php
+          description: 路由测试。
+        - title: Ipchaxun
+          url: https://ipchaxun.com/
+          description: 通过ip反查域名。
+        - title: Fofa
+          url: https://en.fofa.info/
+          description: 通过CND 查域名。
 
 - taxonomy: 影音视频
   icon: fas fa-film fa-lg
@@ -271,7 +358,8 @@
       links:
         - title: 虎牙直播
           url: https://www.huya.com/
-          description: 腾讯视频，海量视频在线观看。
+        - title: 斗鱼直播
+          url: https://www.douyu.com/
 
     - term: 音乐
       links:
