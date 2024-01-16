@@ -9,27 +9,27 @@
   list:
     - term: 小工具
       links:
-        - title:
-          url: 
-          description: 
-        - title:
-          url: 
-          description: 
-        - title:
-          url: 
-          description:
-        - title:
-          url: 
-          description: 
-        - title:
-          url: 
-          description: 
-        - title:
-          url: 
-          description: 
-        - title:
-          url: 
-          description:  
+        - title: PDF在线编辑
+          url: https://tools.pdf24.org/
+          description: PDF在线编辑网站
+        - title: PDF在线编辑
+          url: https://smallpdf.com/
+          description: PDF在线编辑网站
+        - title: 短暂分享
+          url: https://www.file.io/
+          description: 短暂分享网站
+        - title: fakeupdate
+          url: https://fakeupdate.net/
+          description: 假装系统升级
+        - title: mp3cut
+          url: https://mp3cut.net/
+          description: 在线音频剪辑
+        - title: watermarkremover
+          url: https://www.watermarkremover.io/
+          description: 视频下载
+        - title: watermarkremover
+          url: http://www.downfi.com/video/
+          description: 小视频下载
 
     - term: 程序
       links:
@@ -39,20 +39,61 @@
         - title: Sourcegraph
           url: https://sourcegraph.com
           description: 示例代码查询网站
+        - title: explainshell
+          url: https://explainshell.com/
+          description: linux 命令解释
         - title: Diagrams
           url: https://app.diagrams.net/
           description: 免费好用的画图工具
+        - title: Plantuml
+          url: https://plantuml.com/
+          description: PlantUML是一个多功能组件，可快速、直接地创建图表。
+        - title: Hugo
+          url: https://gohugo.io/
+          description: 静态网站搭建系统
+        - title: tooltt
+          url: https://tooltt.com/
+          description: 工具集合
+
+    - term: Android
+      links:
         - title: JitPack
           url: https://jitpack.io/
-          description: JVM和 Android 库推网站
+          description: JVM和 Android 库推送网站
         - title: MVN Repository
           url: https://mvnrepository.com/
           description: Maven 版本查询网站。
-
+        - title: Gradle 
+          url: https://services.gradle.org/distributions/
+          description: Gradle 下载网站。
+        - title: Genymotion 
+          url: https://www.genymotion.com/
+          description: 安卓模拟器。
+        - title: Jadx 
+          url: https://github.com/skylot/jadx
+          description: 安卓反编译工具。
+        - title: dev.to 
+          url: https://dev.to/t/android
+          description: 安卓技术交流平台。
+        - title: 扔无线
+          url: https://rengwuxian.com/
+          description: 朱凯的网站。
+        - title: Liuwangshu 
+          url: https://liuwangshu.cn/
+          description: 刘望舒的网站。
+        - title: 却把青梅嗅 
+          url: https://blog.csdn.net/mq2553299
+          description: 却把青梅嗅的CSDN。
+        - title: Guolin 
+          url: https://blog.csdn.net/guolin_blog/
+          description: 郭霖的CSDN。
     - term: 邮箱
       links:
         - title: 临时邮箱
           url: https://temp-mail.org/
+          description: 临时邮箱。
+        - title: Etempmail
+          url: https://etempmail.com/
           description: 临时邮箱。
         - title: Cock
           url: https://cock.li/
@@ -78,7 +119,15 @@
         - title: Free Dictionary API
           url: https://dictionaryapi.dev/
           description: 免费词典REST api。
-
+        - title: Apitest
+          url: https://tooltt.com/apitest/
+          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试
+        - title: hoppscotch
+          url: https://hoppscotch.io/
+          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试
+        - title: mockaroo
+          url: https://mockaroo.com/
+          description: 批量后端数据模拟生成
     - term: AI 聊天
       links:
         - title: Chat GPT
@@ -184,18 +233,23 @@
         - title: Eu org
           url: https://nic.eu.org/
           description: 终身免费二级域名申请网站。
+        - title: freenom
+          url: https://www.freenom.com/
+          description: 终身域名申请网站。
         - title: NameSilo
           url: https://www.namesilo.com/
           description: 域名购买网站。
         - title: ClouDns
           url: https://www.cloudns.net/
-          description: Duwang的性价比机场排名。
+          description: ClouDns 域名购买
     - term: 工具
       links:
         - title: 长风的节点转换
           url: https://v2rayse.com/node-convert/
           description: 节点转换网站。
-        - title: Cf 优选IP
+        - title: sing-box订阅转换
+          url: https://sing-box-subscribe-six-tau-xuniyishifanchen.vercel.app/
+        - title: sing-box订阅转换
           url: https://vfarid.github.io/cf-ip-scanner/?max=30#
           description: CF IP  在线优选网站。
         - title: Cf 优选IP
@@ -384,14 +438,59 @@
           url: https://y.qq.com/
           description: QQ 音乐，在线听歌。
 
-- taxonomy: 素材资源
+- taxonomy: 资源
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
+    - term: 图标
       links:
-        - title: 百度网盘
-          url: http://pan.baidu.com
-
+        - title: iconfont
+          url: https://www.iconfont.cn/
+          description: 阿里巴巴图标网站
+        - title: fontawesome
+          url: https://fontawesome.com.cn/
+          description: 网站图标网站
+    - term: 壁纸
+      links:
+        - title: pixabay
+          url: https://pixabay.com/
+          description: 精彩的免版税图片和免版税库存
+        - title: wallhaven
+          url: https://wallhaven.cc/
+          description: 壁纸网站
+        - title: alphacoders
+          url: https://wall.alphacoders.com/
+          description: 动漫壁纸网站
+        - title: zzzmh
+          url: https://bz.zzzmh.cn/
+          description: 极简壁纸
+        - title: storyset
+          url: https://storyset.com/
+          description: 插画壁纸
+    - term: 软件
+      links:
+        - title: Mac破解程序
+          url: https://www.macbl.com/
+          description: Mac破解程序
+        - title: 唧唧Down
+          url: http://client.jijidown.com/
+          description: 这是一个用于下载 bilibili 视频的PC应用程序
+        - title: Windows 系统镜像站
+          url: https://msdn.itellyou.cn/
+          description: Windows 系统镜像站
+        - title: Freedownloadmanager
+          url: https://www.freedownloadmanager.org/
+          description: 全系统的下载加速器。
+        - title: Ventoy
+          url: https://www.ventoy.net/
+          description: 一个制作可启动U盘的开源工具。
+    - term: 电子书
+      links:
+        - title: Z-Library
+          url: https://zlib.pro/
+          description: 全球最大的书库
+        - title: 脚本之家
+          url: https://www.jb51.net/
+          description: PDF书籍
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
