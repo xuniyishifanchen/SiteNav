@@ -1,11 +1,7 @@
 ---
 
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-
 - taxonomy: 实用工具
-  icon: fas fa-film fa-lg
+  icon: fas fal fa-wrench
   list:
     - term: 小工具
       links:
@@ -33,8 +29,23 @@
         - title: downfi
           url: http://www.downfi.com/video/
           description: 小视频下载
+    - term: 邮箱
+      links:
+        - title: 临时邮箱
+          url: https://temp-mail.org/
+          description: 临时邮箱。
+        - title: Etempmail
+          logo: https://etempmail.com/assets/img/fav/favicon-32x32.png
+          url: https://etempmail.com/
+          description: 临时邮箱。
+        - title: Cock
+          url: https://cock.li/
+          description: 匿名邮箱。
 
-    - term: 程序
+- taxonomy: 程序天地
+  icon: fas far fa-desktop
+  list:
+    - term: 工具
       links:
         - title: 设计模式教学
           url: https://refactoringguru.cn/
@@ -93,18 +104,6 @@
         - title: Guolin 
           url: https://blog.csdn.net/guolin_blog/
           description: 郭霖的CSDN。
-    - term: 邮箱
-      links:
-        - title: 临时邮箱
-          url: https://temp-mail.org/
-          description: 临时邮箱。
-        - title: Etempmail
-          logo: https://etempmail.com/assets/img/fav/favicon-32x32.png
-          url: https://etempmail.com/
-          description: 临时邮箱。
-        - title: Cock
-          url: https://cock.li/
-          description: 匿名邮箱。
 
     - term: 后端服务
       links:
@@ -137,6 +136,10 @@
         - title: mockaroo
           url: https://mockaroo.com/
           description: 批量后端数据模拟生成
+
+- taxonomy: 人工智能
+  icon: fas fal fa-graduation-cap
+  list:
     - term: AI 聊天
       links:
         - title: Chat GPT
@@ -291,7 +294,7 @@
           description: 免费接码。
 
 - taxonomy: 网络检测
-  icon: fas fa-film fa-lg
+  icon: fas  fa-network-wired fal
   list:
     - term: 网速测试
       links:
@@ -440,15 +443,6 @@
         - title: 白噪声
           url: https://mynoise.net/
 
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 哈哈
-      links:
-        - title: QQ 音乐
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-
 - taxonomy: 资源
   icon: far fa-folder-open fa-lg
   list:
@@ -505,22 +499,3 @@
         - title: 脚本之家
           url: https://www.jb51.net/
           description: PDF书籍
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
