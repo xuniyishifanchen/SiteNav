@@ -35,7 +35,7 @@
           url: https://temp-mail.org/
           description: 临时邮箱。
         - title: Etempmail
-          logo: https://etempmail.com/assets/img/fav/favicon-32x32.png
+          logo: https://etempmail.com/assets/img/fav/apple-icon-72x72.png
           url: https://etempmail.com/
           description: 临时邮箱。
         - title: Cock
@@ -47,21 +47,21 @@
   list:
     - term: 工具
       links:
-        - title: 设计模式教学
-          url: https://refactoringguru.cn/
-          description: 设计模式在线教学
+        - title: GitHub
+          url: https://github.com/
+          description: 全球最大的同性交友平台。
         - title: Sourcegraph
           url: https://sourcegraph.com
           description: 示例代码查询网站
-        - title: explainshell
-          url: https://explainshell.com/
-          description: linux 命令解释
         - title: Diagrams
           url: https://app.diagrams.net/
           description: 免费好用的画图工具
         - title: Plantuml
           url: https://plantuml.com/
           description: PlantUML是一个多功能组件，可快速、直接地创建图表。
+        - title: explainshell
+          url: https://explainshell.com/
+          description: linux 命令解释
         - title: Hugo
           url: https://gohugo.io/
           description: 静态网站搭建系统
@@ -69,6 +69,11 @@
           logo: https://tooltt.com/static/tool.ico
           url: https://tooltt.com/
           description: 工具集合
+    - term: 教学
+      links:
+        - title: 设计模式教学
+          url: https://refactoringguru.cn/
+          description: 设计模式在线教学
 
     - term: Android
       links:
@@ -150,13 +155,14 @@
           url: https://bard.google.com/
           description: Google Brand 聊天工具。
         - title: Claude
+          logo: https://www.anthropic.com/favicon.ico
           url: https://claude.ai/
           description: Claude 聊天工具。
         - title: Character
           url: https://beta.character.ai/
           description: Character 聊天工具。
         - title: Perplexity
-          logo: https://www.perplexity.ai/favicon.ico
+          logo: https://www.perplexity.ai/favicon.svg
           url: https://www.perplexity.ai/
           description: Perplexity 聊天工具。
     - term: AI 其他
@@ -166,7 +172,7 @@
           description: 在线AI视频制作网站。
 
 - taxonomy: 科学上网
-  icon: fas fa-film fa-lg
+  icon: fas fal fa-server
   list:
     - term: VPS
       links:
@@ -180,6 +186,7 @@
           url: https://ap-northeast-1.console.aws.amazon.com/
           description: 亚马逊 EC2。
         - title: Hytron
+          logo: https://idc.hytron.io/assets/img/logo.png
           url: https://idc.hytron.io/
           description: 香港VPS。
         - title: Wap
@@ -203,6 +210,7 @@
           url: https://xn--4gq62f52gdss.com/
           description: 每月一元机场。
         - title: 小鲤鱼
+          logo: https://www.xiaoliyu.me/theme/default/assets/favicons/favicon-32x32.png
           url: https://www.xiaoliyu.me/
           description: HY2 机场，延迟低。
     - term: 转发
@@ -211,9 +219,11 @@
           url: https://dash.cloudflare.com/
           description: 全球最大CDN服务商。
         - title: Gcore
+          logo: https://api.gcore.com/iam/files/get/?name=reselling.BrandingFile/bytes/filename/mimetype/qe5N6zmQMIE9.ico
           url: https://auth.gcore.com/
           description: Gcore CND 服务。
         - title: NNR
+          logo: https://nnr.moe/img/logo.svg
           url: https://nnr.moe/
           description: 32元 每季1Tb。
         - title: 转发
@@ -225,19 +235,23 @@
           url: https://bulianglin.com/
           description: 知识分享博主。
         - title: Duwang的VPS分享
+          logo: https://www.duangvps.com/wp-content/uploads/2020/05/cropped-a201ab1b-e1590591771901-1-32x32.png
           url: https://www.duangvps.com/
           description: D小白技术分享。
         - title: 科技Lion
           url: https://kejilion.blogspot.com/
           description: 科技分享博主。
         - title: 梅塔沃克
+          logo: https://iweec.com/usr/themes/echo/public/home/img/favicon.png
           url: https://iweec.com/
           description: 专注跨境电商分享博主。
         - title: 我不是咕咕鸽
+          logo: https://img.laoda.de/i/2023/07/13/2dcwxy-0.webp
           url: https://blog.laoda.de/
           description: 专注Docker分享博主。
         - title: Misaka
-          url: https://blog.laoda.de/
+          logo: https://imgs.misaka.cloudns.biz/20230115115530.png
+          url: https://blog.misaka.rest/
           description: MisakaNo の 小破站。
         - title: HiFeng
           url: https://www.hicairo.com/
@@ -262,10 +276,11 @@
           url: https://v2rayse.com/node-convert/
           description: 节点转换网站。
         - title: sing-box订阅转换
+          logo: https://raw.githubusercontent.com/Toperlock/sing-box-subscribe/main/public/favicon.ico
           url: https://sing-box-subscribe-six-tau-xuniyishifanchen.vercel.app/
-        - title: sing-box订阅转换
+        - title: CF IP 在线优选网站
           url: https://vfarid.github.io/cf-ip-scanner/?max=30#
-          description: CF IP  在线优选网站。
+          description: CF IP 在线优选网站。
         - title: Cf 优选IP
           url: https://cloudflare.vmshop.org/
           description: CF IP在线优选网站。
@@ -278,6 +293,7 @@
           url: https://smsreceivefree.com/
           description: 付费接码。
         - title: 511S 接码平台
+          logo: https://ussms.cyou/html/guide/favicon.ico
           url: https://ussms.cyou/
           description: 付费接码，可以接google voice验证的码。
         - title: getfreesmsnumber
@@ -302,11 +318,13 @@
           url: https://www.speedtest.net/
           description: 网速测试。
         - title: Fast
+          logo: https://fast.com/assets/favicons/favicon-96x96.png
           url: https://fast.com/
           description: NetFlix 网速测试。
     - term: IP测试
       links:
         - title: IP125
+          logo: https://ip125.com/images/favicon-32x32.png
           url: https://ip125.com/
           description: 显示我的IP地址。
         - title: IP111
@@ -319,15 +337,18 @@
           url: https://ping0.cc/
           description: 高精度IP 地址归属地查询
         - title: IpInfo
+          logo: https://ipinfo.io/static/deviceicons/android-icon-96x96.png
           url: https://ipinfo.io/
           description: IP 全部信息查询。
         - title: Whoer
           url: https://whoer.net/zh
           description: IP 欺诈值检测。
         - title: Scamalytics
+          logo: https://scamalytics.com/wp-content/uploads/2016/06/icon_128.png
           url: https://scamalytics.com/
           description: IP 欺诈值检测。
         - title: Test your IPV6
+          logo: https://ipv4.test-ipv6.com/images/favicon.ico
           url: https://ipv4.test-ipv6.com/
           description: 查询当前IPV4和IPV6。
         - title: IP sb
@@ -410,6 +431,7 @@
         - title: 吼吼
           url: https://www.hohovod.com/
         - title: 大师兄
+          logo: https://dsxys.pro/mxtheme/images/favicon.png
           url: https://dsxys.pro/
 
     - term: 动漫
