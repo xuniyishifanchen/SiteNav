@@ -20,14 +20,17 @@
           description: 短暂分享网站
         - title: fakeupdate
           url: https://fakeupdate.net/
+          logo: https://fakeupdate.net/favicon.gif
           description: 假装系统升级
         - title: mp3cut
+          logo: https://besticon-demo.herokuapp.com/icon?url=https://mp3cut.net/&size=80..120..200
           url: https://mp3cut.net/
           description: 在线音频剪辑
         - title: watermarkremover
+          logo: https://cdn.pixelbin.io/v2/dummy-cloudname/original/watermarkremover_asset/logo/favicon.ico
           url: https://www.watermarkremover.io/
-          description: 视频下载
-        - title: watermarkremover
+          description: 去水印网站
+        - title: downfi
           url: http://www.downfi.com/video/
           description: 小视频下载
 
@@ -52,6 +55,7 @@
           url: https://gohugo.io/
           description: 静态网站搭建系统
         - title: tooltt
+          logo: https://tooltt.com/static/tool.ico
           url: https://tooltt.com/
           description: 工具集合
 
@@ -61,6 +65,7 @@
           url: https://jitpack.io/
           description: JVM和 Android 库推送网站
         - title: MVN Repository
+          logo: https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico
           url: https://mvnrepository.com/
           description: Maven 版本查询网站。
         - title: Gradle 
@@ -78,7 +83,8 @@
         - title: 扔无线
           url: https://rengwuxian.com/
           description: 朱凯的网站。
-        - title: Liuwangshu 
+        - title: Liuwangshu
+          logo: https://liuwangshu.cn/img/favicon.jpg 
           url: https://liuwangshu.cn/
           description: 刘望舒的网站。
         - title: 却把青梅嗅 
@@ -93,6 +99,7 @@
           url: https://temp-mail.org/
           description: 临时邮箱。
         - title: Etempmail
+          logo: https://etempmail.com/assets/img/fav/favicon-32x32.png
           url: https://etempmail.com/
           description: 临时邮箱。
         - title: Cock
@@ -102,6 +109,7 @@
     - term: 后端服务
       links:
         - title: Supabase
+          logo: https://supabase.com/favicon/favicon-196x196.png
           url: https://supabase.com/
           description: Supabase 是一个开源 Firebase 替代品。使用 Postgres 数据库、身份验证、即时 API、边缘函数、实时订阅、存储和矢量嵌入来启动您的项目。
         - title: Firebase
@@ -120,6 +128,7 @@
           url: https://dictionaryapi.dev/
           description: 免费词典REST api。
         - title: Apitest
+          logo: https://tooltt.com/static/tool.ico 
           url: https://tooltt.com/apitest/
           description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试
         - title: hoppscotch
@@ -134,6 +143,7 @@
           url: https://chat.openai.com/
           description: OpenAi 聊天工具。
         - title: Bard
+          logo: https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg
           url: https://bard.google.com/
           description: Google Brand 聊天工具。
         - title: Claude
@@ -143,6 +153,7 @@
           url: https://beta.character.ai/
           description: Character 聊天工具。
         - title: Perplexity
+          logo: https://www.perplexity.ai/favicon.ico
           url: https://www.perplexity.ai/
           description: Perplexity 聊天工具。
     - term: AI 其他
@@ -211,7 +222,7 @@
           url: https://bulianglin.com/
           description: 知识分享博主。
         - title: Duwang的VPS分享
-          url: https://iweec.com/
+          url: https://www.duangvps.com/
           description: D小白技术分享。
         - title: 科技Lion
           url: https://kejilion.blogspot.com/
@@ -464,14 +475,17 @@
           url: https://bz.zzzmh.cn/
           description: 极简壁纸
         - title: storyset
+          logo: https://storyset.com/apple-touch-icon.png
           url: https://storyset.com/
           description: 插画壁纸
     - term: 软件
       links:
         - title: Mac破解程序
+          logo: https://static.skyandroid.cn/images/favicon.ico
           url: https://www.macbl.com/
           description: Mac破解程序
         - title: 唧唧Down
+          logo: http://client.jijidown.com/favicon/favicon.ico
           url: http://client.jijidown.com/
           description: 这是一个用于下载 bilibili 视频的PC应用程序
         - title: Windows 系统镜像站
