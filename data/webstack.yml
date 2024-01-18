@@ -235,7 +235,7 @@
           url: https://bulianglin.com/
           description: 知识分享博主。
         - title: Duwang的VPS分享
-          logo: https://www.duangvps.com/wp-content/uploads/2020/05/cropped-a201ab1b-e1590591771901-1-32x32.png
+          logo: duang.png
           url: https://www.duangvps.com/
           description: D小白技术分享。
         - title: 科技Lion
@@ -497,11 +497,11 @@
     - term: 软件
       links:
         - title: Mac破解程序
-          logo: https://static.skyandroid.cn/images/favicon.ico
+          logo: skyandroid.ico
           url: https://www.macbl.com/
           description: Mac破解程序
         - title: 唧唧Down
-          logo: http://client.jijidown.com/favicon/favicon.ico
+          logo: jijidown.ico
           url: http://client.jijidown.com/
           description: 这是一个用于下载 bilibili 视频的PC应用程序
         - title: Windows 系统镜像站
