@@ -31,6 +31,12 @@
           description: 小视频下载
     - term: 邮箱
       links:
+        - title: Gmail
+          logo: https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
+          url: https://mail.google.com/
+        - title: proton邮箱
+          logo: https://account.proton.me/assets/favicon.85478299dafc69454be0.svg?v=5.0.84.1
+          url: https://account.proton.me/
         - title: 临时邮箱
           url: https://temp-mail.org/
           description: 临时邮箱。
@@ -213,6 +219,9 @@
           logo: https://www.xiaoliyu.me/theme/default/assets/favicons/favicon-32x32.png
           url: https://www.xiaoliyu.me/
           description: HY2 机场，延迟低。
+        - title: protonvpn
+          url: https://protonvpn.com/
+          description: 免费军事级VPN。
     - term: 转发
       links:
         - title: CloudFlare
