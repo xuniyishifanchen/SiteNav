@@ -7,36 +7,53 @@
       links:
         - title: PDF在线编辑
           url: https://tools.pdf24.org/
-          description: PDF在线编辑网站
+          description: PDF在线编辑网站。
         - title: PDF在线编辑
           url: https://smallpdf.com/
-          description: PDF在线编辑网站
+          description: PDF在线编辑网站。
+        - title: tinywow
+          logo: https://tinywow.com/v2/img/favicon.png
+          url: https://tinywow.com/
+          description: 免费实用的文档 、图片、 视频转换网站。
         - title: 短暂分享
           url: https://www.file.io/
-          description: 短暂分享网站
+          description: 短暂分享网站。
         - title: fakeupdate
           url: https://fakeupdate.net/
           logo: https://fakeupdate.net/favicon.gif
-          description: 假装系统升级
+          description: 假装系统升级。
         - title: mp3cut
           logo: https://besticon-demo.herokuapp.com/icon?url=https://mp3cut.net/&size=80..120..200
           url: https://mp3cut.net/
-          description: 在线音频剪辑
+          description: 在线音频剪辑。
         - title: watermarkremover
           logo: https://cdn.pixelbin.io/v2/dummy-cloudname/original/watermarkremover_asset/logo/favicon.ico
           url: https://www.watermarkremover.io/
-          description: 去水印网站
+          description: 去水印网站。
         - title: downfi
+          logo: downfi.ico
           url: http://www.downfi.com/video/
-          description: 小视频下载
+          description: 小视频下载。
+        - title: 在线进制转换
+          logo: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.sojson.com&size=100
+          url: https://www.sojson.com/hexconvert.html
+          description: 在线进制转换。
+        - title: kms
+          url: https://kms.cx/
+          description: Windows/Office 的 KMS 一键生成脚本。
+        - title: 全球护照照片参数和自动剪辑
+          url: https://cn.idphoto4you.com/
+          description: 全球护照照片参数和自动剪辑。
     - term: 邮箱
       links:
         - title: Gmail
           logo: https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
           url: https://mail.google.com/
+          description: Google 邮箱。
         - title: proton邮箱
           logo: https://account.proton.me/assets/favicon.85478299dafc69454be0.svg?v=5.0.84.1
           url: https://account.proton.me/
+          description: 端到端加密的电子邮箱。
         - title: 临时邮箱
           url: https://temp-mail.org/
           description: 临时邮箱。
@@ -58,34 +75,74 @@
           description: 全球最大的同性交友平台。
         - title: Sourcegraph
           url: https://sourcegraph.com
-          description: 示例代码查询网站
+          description: 示例代码查询网站。
         - title: Diagrams
           url: https://app.diagrams.net/
-          description: 免费好用的画图工具
+          description: 免费好用的画图工具。
         - title: Plantuml
           url: https://plantuml.com/
           description: PlantUML是一个多功能组件，可快速、直接地创建图表。
         - title: explainshell
           url: https://explainshell.com/
-          description: linux 命令解释
+          description: linux 命令解释。
+        - title: 51yip
+          url: http://linux.51yip.com/
+          description: linux 命令解释。
         - title: Hugo
           url: https://gohugo.io/
-          description: 静态网站搭建系统
+          description: 静态网站搭建系统。
         - title: tooltt
           logo: https://tooltt.com/static/tool.ico
           url: https://tooltt.com/
-          description: 工具集合
+          description: 工具集合。
     - term: 教学
       links:
         - title: 设计模式教学
           url: https://refactoringguru.cn/
-          description: 设计模式在线教学
-
+          description: 设计模式在线教学。
+        - title: Java 编码规范
+          logo: https://www.gstatic.com/devrel-devsite/prod/v838cdd0153469aefad6dfec4f5808816c5382d891c64c2a3c5aaefbf46a914dd/androidsource/images/touchicon-180.png
+          url: https://source.android.com/docs/setup/contribute/code-style#use-javadoc-standard-comments
+          description: Java 编码规范。
+        - title: 鸟哥的linux私房菜
+          logo: https://linux.vbird.org/include/favicon.ico
+          url: https://linux.vbird.org/
+          description: 鸟哥的linux私房菜。
+        - title: 廖雪峰的Python教学
+          url: https://www.liaoxuefeng.com/wiki/1016959663602400
+          description: 廖雪峰的Python教学。
+        - title: 廖雪峰的Git教学
+          url: https://www.liaoxuefeng.com/wiki/896043488029600
+          description: 廖雪峰的Git教学。
+        - title: Git教学
+          url: https://gitbook.liuhui998.com/
+          description: Git教学。
+        - title: Git可视化教学
+          logo: https://learngitbranching.js.org/assets/favicon.ico
+          url: https://learngitbranching.js.org/
+          description: Git可视化教学。
+        - title: 数据结构与算法可视化教学
+          logo: https://visualgo.net/img/favicon.png
+          url: https://visualgo.net/
+          description: 数据结构与算法可视化教学。
+        - title: MySQL教程
+          url: https://www.yiibai.com/mysql/
+          description: MySQL教程。
+        - title: 表严肃
+          logo: https://biaoyansu.com/img/biaoyansu_logo_small.png?v=69
+          url: https://biaoyansu.com/
+          description: 表严肃网页教学。
+        - title: 廖雪峰的JavaScript教学
+          url: https://www.liaoxuefeng.com/wiki/1022910821149312
+          description: 廖雪峰的JavaScript教学。
+        - title: Java教学
+          url: https://www.weixueyuan.net/java/rumen/
+          description: Java教学。
     - term: Android
       links:
         - title: JitPack
           url: https://jitpack.io/
-          description: JVM和 Android 库推送网站
+          description: JVM和 Android 库推送网站。
         - title: MVN Repository
           logo: https://mvnrepository.com/assets/images/7080b8b0f6f48e6fbaffd5f9d85fcc7f-favicon.ico
           url: https://mvnrepository.com/
@@ -140,13 +197,13 @@
         - title: Apitest
           logo: https://tooltt.com/static/tool.ico 
           url: https://tooltt.com/apitest/
-          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试
+          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试。
         - title: hoppscotch
           url: https://hoppscotch.io/
-          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试
+          description: 在线HTTP/HTTPS协议GET,POST,RESTful接口测试。
         - title: mockaroo
           url: https://mockaroo.com/
-          description: 批量后端数据模拟生成
+          description: 批量后端数据模拟生成。
 
 - taxonomy: 人工智能
   icon: fas fal fa-graduation-cap
@@ -176,6 +233,9 @@
         - title: Pika
           url: https://pika.art/
           description: 在线AI视频制作网站。
+        - title: vispunk
+          url: https://vispunk.com/
+          description: 免费AI图片、视频制作网站。
 
 - taxonomy: 科学上网
   icon: fas fal fa-server
@@ -278,7 +338,7 @@
           description: 域名购买网站。
         - title: ClouDns
           url: https://www.cloudns.net/
-          description: ClouDns 域名购买
+          description: ClouDns 域名购买。
     - term: 工具
       links:
         - title: 长风的节点转换
@@ -287,6 +347,7 @@
         - title: sing-box订阅转换
           logo: https://raw.githubusercontent.com/Toperlock/sing-box-subscribe/main/public/favicon.ico
           url: https://sing-box-subscribe-six-tau-xuniyishifanchen.vercel.app/
+          description: sing-box订阅转换。
         - title: CF IP 在线优选网站
           url: https://vfarid.github.io/cf-ip-scanner/?max=30#
           description: CF IP 在线优选网站。
@@ -341,10 +402,10 @@
           description: 显示我的IP地址。
         - title: Ifconfig.me
           url: https://ifconfig.me/
-          description: What Is My IP Address? - ifconfig.me。
+          description: What Is My IP Address? - ifconfig.me.
         - title: Ping0
           url: https://ping0.cc/
-          description: 高精度IP 地址归属地查询
+          description: 高精度IP 地址归属地查询。
         - title: IpInfo
           logo: https://ipinfo.io/static/deviceicons/android-icon-96x96.png
           url: https://ipinfo.io/
@@ -416,49 +477,62 @@
           description: 优酷 - 这个世界很酷。
         - title: 芒果TV
           url: https://www.mgtv.com/
+          description: 芒果TV - 天生青春。
         - title: 哔哩哔哩
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
         - title: Acfun
           url: https://www.acfun.cn/
+          description: Acfun弹幕视频。
         - title: Youtube
           url: https://www.youtube.com/
+          description: 最大的视频搜索和分享平台。
         - title: Netflix
+          logo: netflix.ico
           url: https://www.netflix.com/ 
+          description: 全球最大的视频订阅平台。
         - title: 泥视频
           url: https://www.nivod4.tv
           description: 海外华人在线影院
         - title: CN影院
           logo: https://cnys.tv/static/Streamlab/img/logo3.png
           url: https://cnys.tv/
-          description: 海外在线视频媒体影院平台
+          description: 海外在线视频媒体影院平台。
         - title: 低端影视
           url: https://ddys.pro/
+          description: 低端影视 - 超清在线视频站。
         - title: LIBVIO
           logo: https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico
           url: https://www.libvio.vip/
+          description: LIBVIO官网。
         - title: 吼吼
           url: https://www.hohovod.com/
+          description: 海外在线影视平台。
         - title: 大师兄
           logo: https://dsxys.pro/mxtheme/images/favicon.png
           url: https://dsxys.pro/
+          description: 大师兄影视，永久免费的福利超清影视站。
 
     - term: 动漫
       links:
         - title: 哈哩哈哩
+          logo: haliyy.ico
           url: http://haliyy.com/
           description: 哈哩哈哩动漫
         - title: 樱花动漫
           logo: https://www.yhmgo.com/tpsf/yh_pic/favicon.ico
-          url: https://www.yhmgo.com/          
+          url: https://www.yhmgo.com/  
+          description: 樱花动漫。    
 
 
     - term: 直播
       links:
         - title: 虎牙直播
           url: https://www.huya.com/
+          description: 虎牙直播
         - title: 斗鱼直播
           url: https://www.douyu.com/
+          description: 斗鱼直播
 
     - term: 音乐
       links:
@@ -471,9 +545,13 @@
           description: 163 网易云音乐。
         - title: Spotify
           url: https://open.spotify.com/
+          description: 声破天。
         - title: 白噪声
           url: https://mynoise.net/
-
+          description: 白噪声。
+        - title: audiohub
+          url: https://audiohub.com/
+          description: Audiohub是一个提供免版税音乐的国外网站。
 - taxonomy: 资源
   icon: far fa-folder-open fa-lg
   list:
@@ -481,52 +559,61 @@
       links:
         - title: iconfont
           url: https://www.iconfont.cn/
-          description: 阿里巴巴图标网站
+          description: 阿里巴巴图标网站。
         - title: fontawesome
           url: https://fontawesome.com.cn/
-          description: 网站图标网站
+          description: 网站图标网站。
     - term: 壁纸
       links:
         - title: pixabay
           url: https://pixabay.com/
-          description: 精彩的免版税图片和免版税库存
+          description: 精彩的免版税图片和免版税库存。
         - title: wallhaven
           url: https://wallhaven.cc/
-          description: 壁纸网站
+          description: 壁纸网站。
         - title: alphacoders
           url: https://wall.alphacoders.com/
-          description: 动漫壁纸网站
+          description: 动漫壁纸网站。
         - title: zzzmh
           url: https://bz.zzzmh.cn/
-          description: 极简壁纸
+          description: 极简壁纸。
         - title: storyset
           logo: https://storyset.com/apple-touch-icon.png
           url: https://storyset.com/
-          description: 插画壁纸
+          description: 插画壁纸。
     - term: 软件
       links:
+        - title: alternativeto 
+          url: https://alternativeto.net/
+          description: AlternativeTo 收费软件替代品查询网站。
         - title: Mac破解程序
           logo: skyandroid.ico
           url: https://www.macbl.com/
-          description: Mac破解程序
+          description: Mac破解程序。
         - title: 唧唧Down
           logo: jijidown.ico
           url: http://client.jijidown.com/
-          description: 这是一个用于下载 bilibili 视频的PC应用程序
+          description: 这是一个用于下载 bilibili 视频的PC应用程序。
         - title: Windows 系统镜像站
           url: https://msdn.itellyou.cn/
-          description: Windows 系统镜像站
+          description: Windows 系统镜像站。
         - title: Freedownloadmanager
           url: https://www.freedownloadmanager.org/
           description: 全系统的下载加速器。
         - title: Ventoy
           url: https://www.ventoy.net/
           description: 一个制作可启动U盘的开源工具。
+        - title: RustDesk Remote Desktop
+          url: https://github.com/rustdesk/rustdesk/releases/tag/1.2.3
+          description: 免费开源的全端远程控制软件。
+        - title: acme
+          url: https://github.com/rustdesk/rustdesk/releases/tag/1.2.3
+          description: 免费SSL证书一键生成。
     - term: 电子书
       links:
         - title: Z-Library
           url: https://zlib.pro/
-          description: 全球最大的书库
+          description: 全球最大的书库。
         - title: 脚本之家
           url: https://www.jb51.net/
-          description: PDF书籍
+          description: PDF书籍。
