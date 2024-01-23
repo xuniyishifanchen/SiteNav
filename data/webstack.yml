@@ -609,6 +609,9 @@
         - title: acme
           url: https://github.com/rustdesk/rustdesk/releases/tag/1.2.3
           description: 免费SSL证书一键生成。
+        - title: localsend
+          url: https://localsend.org/
+          description: 开源免费的局域网文件传输软件。
     - term: 电子书
       links:
         - title: Z-Library
