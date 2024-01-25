@@ -236,7 +236,10 @@
         - title: vispunk
           url: https://vispunk.com/
           description: 免费AI图片、视频制作网站。
-
+        - title: coze
+          logo: https://sf-coze-web-cdn.coze.com/obj/coze-web-us/obric/coze/favicon.1970.png
+          url: https://www.coze.com/
+          description: 轻松创建 AI 机器人, 可以免费使用GPT4。
 - taxonomy: 科学上网
   icon: fas fal fa-server
   list:
