@@ -217,6 +217,10 @@
           logo: https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg
           url: https://bard.google.com/
           description: Google Brand 聊天工具。
+        - title: coze
+          logo: https://sf-coze-web-cdn.coze.com/obj/coze-web-us/obric/coze/favicon.1970.png
+          url: https://www.coze.com/
+          description: 轻松创建 AI 机器人, 可以免费使用GPT4。
         - title: Claude
           logo: https://www.anthropic.com/favicon.ico
           url: https://claude.ai/
@@ -232,14 +236,14 @@
       links:
         - title: Pika
           url: https://pika.art/
-          description: 在线AI视频制作网站。
+          description: 在线AI视频制作网站, 已经收费。
+        - title: Pixverse
+          logo: https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.png
+          url: https://app.pixverse.ai/
+          description: 在线AI视频制作网站，免费。
         - title: vispunk
           url: https://vispunk.com/
           description: 免费AI图片、视频制作网站。
-        - title: coze
-          logo: https://sf-coze-web-cdn.coze.com/obj/coze-web-us/obric/coze/favicon.1970.png
-          url: https://www.coze.com/
-          description: 轻松创建 AI 机器人, 可以免费使用GPT4。
 - taxonomy: 科学上网
   icon: fas fal fa-server
   list:
